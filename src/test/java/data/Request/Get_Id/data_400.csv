@@ -1,0 +1,2 @@
+#,Caso de Prueba,P_Id,F_jsonResponse,P_mensaje
+1,1.Buscar un usuario específico por su ID-Status 400,06DzEI0N8p58NEBx,resp_GetId_400.json,Usuário não encontrado

@@ -1,0 +1,4 @@
+#,Caso de Prueba,P_Id,F_jsonResponse,D_mensaje
+1,1.Buscar un usuario específico por su ID-Status 200,xLpYt8EWW1Mp5DCd,resp_delete_200.json,Registro excluído com sucesso
+1,1.Buscar un usuario específico por su ID-Status 200,xLpYt8EWW1Mp5DCd,resp_delete_200.json,Nenhum registro excluído
+

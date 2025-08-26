@@ -1,0 +1,6 @@
+#,Caso de Prueba,P_Id,F_jsonResponse,P_nombre,P_correo,P_contrasena,P_valor,P_Idr
+1,1.Buscar un usuario específico por su ID-Status 200,06DzEI0N8p58NEB9,resp_GetId_200.json,Test User,testuser_1756157481833@example.com,TestPassword123,false,06DzEI0N8p58NEB9
+2,2.Buscar un usuario específico por su ID-Status 200,0L1lOpEgXn7OfUJs,resp_GetId_200.json,Coverage User,coverage_1756154964084@example.com,CoveragePass123,false,0L1lOpEgXn7OfUJs
+3,3.Buscar un usuario específico por su ID-Status 200,0UbTfCOg8PzGm3ix,resp_GetId_200.json,Simone prueba,richardedwadrds@example.com,123456,false,0UbTfCOg8PzGm3ix
+4,4.Buscar un usuario específico por su ID-Status 200,0bLVnvKNJTaFA2Mo,resp_GetId_200.json,prueba 2,anadddd@edit.com,654321,true,0bLVnvKNJTaFA2Mo
+5,5.Buscar un usuario específico por su ID-Status 200,0fw4YmYMi8c9ssh7,resp_GetId_200.json,Emanuella Pacheco,maria-florsiqueira@example.com,q*B7_jCb,true,0fw4YmYMi8c9ssh7

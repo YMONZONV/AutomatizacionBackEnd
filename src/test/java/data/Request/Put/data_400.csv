@@ -1,0 +1,2 @@
+#,Caso de Prueba,P_Id,F_jsonRequest,P1_nombre,P1_correo,P1_contrasena,P1_valor,F_jsonResponse,P1_mensaje201
+1,Registrar un nuevo usuario con datos válidos-Status 200,xUEexpxtZtt1xpY6,req_put_201.json,ShaneBone,KarQEngineerw@hotmail.com,cvUt7aQw2D8I2QE,true,resp_put_201.json,Este email já está sendo usado

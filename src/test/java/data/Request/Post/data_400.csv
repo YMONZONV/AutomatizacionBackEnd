@@ -1,0 +1,6 @@
+#,Caso de Prueba,F_jsonRequest,P_nombre,P_correo,P_contrasena,P_valor,F_jsonResponse,P_mensaje400
+1,Registrar un nuevo usuario con datos válidos-Status 201,req_post.json,AdanAb,Mendez@qa.com.br,teste,true,resp_post.json,Este email já está sendo usado
+2,Registrar un nuevo usuario con datos válidos-Status 201,req_post.json,AdanAb2,Mendez2@qa.com.br,teste,false,resp_post.json,Este email já está sendo usado
+3,Registrar un nuevo usuario con datos válidos-Status 201,req_post.json,AdanAb3,Mendez3@qa.com.br,teste,true,resp_post.json,Este email já está sendo usado
+4,Registrar un nuevo usuario con datos válidos-Status 201,req_post.json,AdanAb4,Mendez4@qa.com.br,teste,false,resp_post.json,Este email já está sendo usado
+5,Registrar un nuevo usuario con datos válidos-Status 201,req_post.json,AdanAb5,Mendez5@qa.com.br,teste,true,resp_post.json,Este email já está sendo usado
